@@ -4,6 +4,4 @@ print(num1+num2) #prints the answer
 print("problem solved") #prints problem solved
 print("thanks for using the calculator") #saying the than
 
-print("////")
-print("/__/")
-print("/_/")
+
